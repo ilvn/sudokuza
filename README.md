@@ -1,0 +1,4 @@
+sudokuza
+========
+
+Sudoku puzzles solver
