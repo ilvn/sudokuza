@@ -1,10 +1,7 @@
-/*
-* Originally published on Jan 23, 2007 by Ilya O. Levin
-* at http://www.literatecode.com
-*/
+> Originally published on Jan 23, 2007 by Ilya O. Levin
+> at http://www.literatecode.com
 
-Sudokuza: Sudoku puzzles solver.
-================================
+# Sudokuza: Sudoku puzzles solver.
 
 Today I have found Sudokuza while revising my archives. This
 program solves Sudoku puzzles. I sketched it more than a year
